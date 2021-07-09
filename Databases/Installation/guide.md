@@ -1,11 +1,9 @@
 
 # SQL Server Developer
 
-Go to this link:
+Download and install SQL Server 2019 Developer using the following link 
 
-https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-
-Download and install SQL Server 2019 Developer. 
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads 
 
 ![](img/01.png)
 
@@ -17,23 +15,19 @@ In the installation wizard, choose **Basic**. Then just press next, next, next..
 
 # SQL Server Management Studio
 
-Go to this link:
+Download and install SQL Server Management Studio using the following link 
 
 https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
-
-Download and install SQL Server Management Studio
 
 ![](img/03.png)
 
 # Try it out
 
-Open SQL Server Management Studio by pressing the Window Button and write
-
-    ssms
+Open SQL Server Management Studio by pressing the Window Button and write **ssms**
 
 ![](img/04.png)
 
-Write **localhost** as Server Name and then press Connect:
+Write **localhost** as Server name and then press Connect:
 
 ![](img/05.png)
 
