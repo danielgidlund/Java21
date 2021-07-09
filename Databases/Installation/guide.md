@@ -1,5 +1,5 @@
 
-# SQL Server Developer
+# SQL Server 2019 Developer
 
 Download and install SQL Server 2019 Developer using the following link 
 
